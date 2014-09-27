@@ -1,0 +1,27 @@
+--- !ruby/object:Hangman
+turn_left: 2
+chosen_word: ! 'winnipeg
+
+'
+word:
+- w
+- i
+- n
+- n
+- i
+- p
+- e
+- g
+- ! '
+
+'
+display:
+- _
+- _
+- _
+- _
+- _
+- p
+- e
+- _
+misses: ! ' a o u v'
